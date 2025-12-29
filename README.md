@@ -28,7 +28,7 @@
 
 ###
 
-<h3 align="right">Tenho conhecimento em Python, utilizando a linguagem para desenvolver lógica de programação, resolver problemas e criar pequenos projetos. Atualmente, estou me aprimorando em desenvolvimento web, com foco em HTML, CSS, TypeScript e Tailwind CSS, buscando criar interfaces modernas, responsivas e bem estruturadas.</h3>
+<h3 align="right">Tenho conhecimento em Python, utilizando a linguagem para desenvolver lógica de programação, resolver problemas e criar pequenos projetos. Atualmente, estou me aprimorando em desenvolvimento web, com foco em HTML, CSS, TypeScript e estudando para Tailwind CSS pra aumentar meu repertório, buscando criar interfaces modernas, responsivas e bem estruturadas.</h3>
 
 ###
 
