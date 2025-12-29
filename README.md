@@ -45,8 +45,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
 </div>
 
-# snk
-
+------------
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -61,5 +60,5 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture>
-
+---------------
 
