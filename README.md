@@ -15,14 +15,12 @@
 <h3 align="left">"Hello World!!, meu nome é Kássio e estou aprendendo programação. Tenho interesse em tecnologia e gosto de criar projetos usando lógica de programação e desenvolvimento web. Estou sempre buscando aprender mais e melhorar minhas habilidades."</h3>
 
 ###
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="instagram logo"  />
 </div>
-
 ###
 
 <img align="right" height="200" src="https://camo.githubusercontent.com/340fc92300037eb5d04c8fc31b7322dd54f08072661f899c783d74796ce82c23/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f31302f32372f66382f31303237663830616561626362623734613265363938626537313832396539652e676966"  />
