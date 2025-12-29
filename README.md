@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">"Hello World!! Olá, meu nome é Kássio e estou aprendendo programação. Tenho interesse em tecnologia e gosto de criar projetos usando lógica de programação e desenvolvimento web. Estou sempre buscando aprender mais e melhorar minhas habilidades."</h3>
+<h3 align="left">"Hello World!!, meu nome é Kássio e estou aprendendo programação. Tenho interesse em tecnologia e gosto de criar projetos usando lógica de programação e desenvolvimento web. Estou sempre buscando aprender mais e melhorar minhas habilidades."</h3>
 
 ###
 
